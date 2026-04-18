@@ -27,7 +27,7 @@ jobs:
 
       - name: Run script
         run: |
-          python bongda.py   # ⚠️ đổi đúng tên file nếu khác
+          python ball.py   # ⚠️ đổi đúng tên file nếu khác
 
       - name: Commit & Push if changed
         run: |
