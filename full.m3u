@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSON_xAXqlmVA6CaABNgxtXMaVaFZIg65IPrg&s",00:00 | Cleveland Cavaliers vs Toronto Raptors (BLV PHAN MÃO)
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png",01:45 | AS Roma vs Atalanta (BLV PHAN TÔ)
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
@@ -215,7 +212,10 @@ https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",22:30 | Manchester City vs Arsenal (BLV PHAN MÃ  )
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/157.png",22:30 | Bayern München vs VfB Stuttgart (BLV LƯƠNG BỔNG)
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/157.png",22:30 | Bayern München vs VfB Stuttgart (BLV PHAN TÔ)
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",22:30 | Manchester City vs Arsenal (BLV LƯƠNG BỔNG)
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",22:30 | Manchester City vs Arsenal (BLV Ngọc Hoàng(A Cháo))
@@ -258,8 +258,8 @@ https://alive.zlylive.com/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 https://d6ld1225.edgemaxcdn.org/tdtv_blv_ngochoang/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HOA ĐÀO TV (FLV)" tvg-logo="https://hoadaotv.info/favicon.ico",HoaDao TV
-https://pull.globalcdnnetworksc2030.info/str01/blv-nguoi-kien.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-a-map.flv
 
 #EXTINF:-1 group-title="🔴 ⚽ HOA ĐÀO TV (FLV)" tvg-logo="https://hoadaotv.info/favicon.ico",HoaDao TV
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-map.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-nguoi-kien.flv
 
