@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png",23:00 | Pisa vs Genoa (BLV PHAN LÂM)
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",23:00 | Vakifbank W - Fenerbahce W (BLV PHAN CA)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Sporting_Clube_de_Portugal.png",00:00 | Sporting CP vs Benfica (BLV CỦ HÀNH)
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png",00:00 | Boston Celtics vs Philadelphia 76ers (BLV PHAN MÃO)
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
@@ -55,9 +46,6 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",06:00 | Los Angeles FC vs San Jose Earthquakes (BLV PHAN TÔ)
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Santos_Laguna_logo.svg",06:00 | Santos Laguna vs Atlas (BLV PHAN CA)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",08:00 | San Antonio Spurs vs Portland Trail Blazers (BLV PHAN TỪ)
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
@@ -158,6 +146,9 @@ https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",02:00 | Crystal Palace vs West Ham (BLV Ngọc Hoàng(A Cháo))
 https://d6ld1225.edgemaxcdn.org/tdtv_blv_ngochoang/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/52.png",02:00 | Crystal Palace vs West Ham
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
+
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghw1jmoep/image/small",02:15 | Moreirense vs Estoril (BLV PHAN LÂM)
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
@@ -185,6 +176,9 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://static.bongda24h.vn/Medias/original/2022/11/09/seoul-0911213928.png",17:30 | FC Seoul vs Bucheon FC 1995 (BLV Táo Thiên Vương)
 https://alive.zlylive.com/tdtv_blv_taothienvuong/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2766.png",17:30 | FC Seoul vs Bucheon FC 1995
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
+
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/5686.png",18:00 | Sichuan Jiuniu vs Beijing Guoan (BLV CỦ HÀNH)
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
@@ -197,6 +191,9 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/836.png",19:00 | SHANGHAI SIPG vs Chongqing Tongliang Long (BLV Táo Tàu)
 https://alive.zlylive.com/tdtv_blv_taotau/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/836.png",19:00 | SHANGHAI SIPG vs Chongqing Tongliang Long
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
+
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/3473.png",21:00 | Chennaiyin vs Mohammedan (BLV PHAN LÂM)
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
@@ -205,6 +202,12 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/2012.png",21:30 | FC Sochi vs Krylia Sovetov (BLV Táo Mèo)
 https://alive.zlylive.com/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2012.png",21:30 | FC Sochi vs Krylia Sovetov
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
+
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/6486.png",22:00 | Bukovyna vs Dynamo Kyiv
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png",23:00 | Ludogorets vs CSKA Sofia (BLV CỦ HÀNH)
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
