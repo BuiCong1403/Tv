@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/24608.png",10:00 | Auckland vs Central Coast Mariners (BLV PHAN LÂM)
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Jtthunders.png",11:05 | JT Thunders - Osaka Bluteon (BLV PHAN CA)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://makan.vn/wp-content/uploads/2023/04/logo-ao-bong-chuyen-01-2.jpg",12:00 | XMLS Thanh Hoá - HCĐG Lào Cai (BLV PHAN TỪ)
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQHJRWovV7XAQQ/company-logo_200_200/company-logo_200_200/0/1730944690974/long_son_cement_logo?e=2147483647&v=beta&t=O3Wmf9feAbBfcSf38JWLqmUO41uTfXl8gNUVj8NU9IY",12:00 | XMLS Thanh Hoá vs HCĐG Lào Cai
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3zrZ0HFvG9-HWKYsCOLXgZJ1y7d2zLCzmQ&s",12:30 | Adelaide United vs Macarthur (BLV PHAN TÔ)
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
