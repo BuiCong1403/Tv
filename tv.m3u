@@ -1,30 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/3619.png",17:00 | Oleksandria vs Veres Rivne (BLV Táo Tàu)
-https://alive.zlylive.com/tdtv_blv_taotau/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Galatasaray_Sports_Club_Logo.svg/500px-Galatasaray_Sports_Club_Logo.svg.png",18:00 | Galatasaray W - Aras Kargo W (BLV PHAN CA)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/4204.png",18:30 | Home United vs Young Lions (BLV CỦ HÀNH)
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Shanghai_Sharks_logo.png",18:35 | Shanghai vs Liaoning (BLV PHAN MÃO)
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Ningbo_Rockets.jpg",18:35 | Ningbo Rockets vs Jilin (BLV PHAN TỪ)
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Dewa_United_F.C._logo.svg",19:00 | Dewa United vs Persib Bandung (BLV PHAN MÃ  )
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072024/noa_erevan_armeniya.jpg?uY.4iyP71.IUrYKW4zofa.9TrGE4PAdC&itok=2IIKrnfc",19:00 | FC Noah vs Van (BLV PHAN TÔ)
-https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072024/noa_erevan_armeniya.jpg?uY.4iyP71.IUrYKW4zofa.9TrGE4PAdC&itok=2IIKrnfc",19:00 | FC Noah vs Van (BLV Táo Tàu)
 https://alive.zlylive.com/tdtv_blv_taotau/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/17902.png",19:00 | Dewa United vs Persib Bandung
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://volleybox.net/media/upload/teams/big_17398862933KgOQ.png",20:00 | Nilufer Bld. W - THY W (BLV PHAN CA)
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
@@ -151,6 +127,9 @@ https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png",23:00 | Ludogorets vs CSKA Sofia (BLV CỦ HÀNH)
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRWmTGZ7b0vxpA9ejlvY7V9NNyHE5jbEkPA&s",23:00 | Ziraat Bankasi - Galatasaray (BLV PHAN CA)
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png",23:15 | Machida Zelvia vs Shabab Al Ahli Dubai (BLV PHAN MÃ  )
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
