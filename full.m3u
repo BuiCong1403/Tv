@@ -1,36 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0e/Bayer_04_Leverkusen_logo.png",01:45 | Bayer Leverkusen vs Bayern München (BLV THIÊN LÔI)
-https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0e/Bayer_04_Leverkusen_logo.png",01:45 | Bayer Leverkusen vs Bayern München (BLV Thần Thông)
-https://alive.zlylive.com/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/168.png",01:45 | Bayer Leverkusen vs Bayern München
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Racing_Club_de_Strasbourg_logo.svg",02:00 | Strasbourg vs Nice (BLV PHAN LÂM)
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",02:00 | Atalanta vs Lazio (BLV PHAN MÃO)
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png",02:00 | Bournemouth vs Leeds (BLV PHAN HÀ LINH )
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1a/Burnley_FC.png",02:00 | Burnley vs Manchester City (BLV PHAN TỪ)
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png",02:00 | Bournemouth vs Leeds (BLV Táo Thiên Vương)
-https://alive.zlylive.com/tdtv_blv_taothienvuong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1a/Burnley_FC.png",02:00 | Burnley vs Manchester City (BLV Ngọc Hoàng(A Cháo))
-https://d6ld1225.edgemaxcdn.org/tdtv_blv_ngochoang/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/44.png",02:00 | Burnley vs Manchester City
-https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/35.png",02:00 | Bournemouth vs Leeds
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",02:30 | Barcelona vs Celta Vigo (BLV PHAN MÃ  )
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
@@ -155,6 +125,9 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/1280px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",00:00 | Levante vs Sevilla (BLV Ngọc Hoàng(A Cháo))
 https://d6ld1225.edgemaxcdn.org/tdtv_blv_ngochoang/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/539.png",00:00 | Levante vs Sevilla
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
+
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png",01:00 | Rayo Vallecano vs Espanyol (BLV CỦ HÀNH)
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
@@ -173,6 +146,9 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/172.png",01:45 | VfB Stuttgart vs SC Freiburg (BLV Táo Mèo)
 https://alive.zlylive.com/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/172.png",01:45 | VfB Stuttgart vs SC Freiburg
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
+
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/PSV_Eindhoven_-_Philips_Stadion_-_Kleedkamer_Welkom_-_Cropped_Logo.jpg",02:00 | PSV Eindhoven vs PEC Zwolle (BLV PHAN MÃO)
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
@@ -181,6 +157,9 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/718.png",02:30 | Oviedo vs Villarreal (BLV Thần Thông)
 https://alive.zlylive.com/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/718.png",02:30 | Oviedo vs Villarreal
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/4799.png",02:45 | Torreense vs Fafe (BLV PHAN LÂM)
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
