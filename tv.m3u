@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/76/Logo_KT_Rolster.svg",15:00 | KT vs DRX (BLV PHAN CA)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/250px-Flag_of_Laos.svg.png",15:30 | U17 Lào vs U17 Malaysia (BLV PHAN TÔ)
-https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/250px-Flag_of_Laos.svg.png",15:30 | U17 Lào vs U17 Malaysia (BLV Táo Thiên Vương)
-https://alive.zlylive.com/tdtv_blv_taothienvuong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/f3928d24f36131a4c3066a6989bfa52d.png!w60",15:30 | U17 Lao vs U17 Malaysia
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/e0/HLE_logo.png",17:00 | HLE vs NS (BLV PHAN CA)
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
@@ -23,8 +11,8 @@ https://alive.zlylive.com/tdtv_blv_taotau/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/293.png",17:00 | Gamba Osaka vs Avispa Fukuoka
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
 
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/cf/Pohang_Steelers_logo.png",17:30 | Pohang Steelers vs Gwangju FC (BLV PHAN TÔ)
-https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/cf/Pohang_Steelers_logo.png",17:30 | Pohang Steelers vs Gwangju FC (BLV PHAN MÃO)
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://www.shutterstock.com/image-photo/anastasia-pavlyuchenkova-returns-ball-during-600nw-2355540697.jpg",18:00 | Anastasia Pavlyuchenkova vs Alexandra Eala (BLV PHAN TỪ)
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
@@ -209,6 +197,9 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Gen.G_logo.png",17:00 | GEN vs DNS (BLV PHAN CA)
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/17965.png",17:00 | Moldova U17 vs Bosnia-Herzegovina U17
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
+
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Ningbo_Rockets.jpg",18:35 | Ningbo Rockets vs Beijing Royal Fighters (BLV PHAN HÀ LINH )
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
@@ -227,11 +218,20 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://storage.quechoa2.live/logos/teams/1776690417008-logo-h-n-i-tasco-auto.png",19:30 | Hà Nội Tasco Auto W vs Binh chủng Thông tin W (BLV PHAN CA)
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/599.png",19:30 | Zorya Luhansk vs Shakhtar Donetsk
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
+
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOe7s4iT8vz-yBkDR4Squs0YJC1LQgcdCAVw&s",19:30 | Hà Nội Tasco Auto vs BC Thông tin - BĐ19
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
+
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/3477.png",21:00 | Kerala Blasters vs Odisha (BLV PHAN MÃ  )
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",21:30 | Biên Phòng MB vs Hà Nội (BLV PHAN CA)
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmxSvp1h1_fBZoTqhyelSZy1hSmWTpR5YKQ&s",21:30 | Biên Phòng MB vs Hà Nội
+https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/VBSporKul%C3%BCb%C3%BCviki.png",23:00 | Istanbul GSK - Fenerbahce (BLV PHAN CA)
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
@@ -241,6 +241,9 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072018/untitled-1_137.png?E2WtqgYxrR8w9oLMbBZqwD84gHD890as&itok=iKU0Yn2w",23:10 | Al Najma vs Al Taawon (BLV CỦ HÀNH)
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2992.png",23:10 | Al Najma vs Al Taawon
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/1280px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",00:00 | Levante vs Sevilla (BLV PHAN TỪ)
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
