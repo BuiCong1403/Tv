@@ -2,21 +2,6 @@
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/Cj6LZ1Fa-Cz52VBFi.png",23:30 | Đan Mạch vs Hàn Quốc (Thomas) (BLV PHAN BÁCH)
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/VEREINFACHTES_LOGO_-_RB_Leipzig.svg",01:30 | RB Leipzig vs Union Berlin (BLV PHAN HÀ LINH )
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/VEREINFACHTES_LOGO_-_RB_Leipzig.svg",01:30 | RB Leipzig vs Union Berlin (BLV Táo Tàu)
-https://alive.zlylive.com/tdtv_blv_taotau/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg",01:45 | Napoli vs Cremonese (BLV PHAN LÂM)
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg",01:45 | Napoli vs Cremonese (BLV Táo Thiên Vương)
-https://alive.zlylive.com/tdtv_blv_taothienvuong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/492.png",01:45 | Napoli vs Cremonese
-https://bglive.zlylive.com/live/bgtv_blv_tieubao/playlist.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",02:00 | Sunderland vs Nottingham Forest (BLV PHAN TÔ)
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
