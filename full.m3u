@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4e/Genoa_cfc.png",20:00 | Genoa vs Como (BLV PHAN TÔ)
-https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/1/1d/20231224191509%21Logo_FC_Lorient_Bretagne-Sud.svg",20:00 | Lorient vs Strasbourg (BLV LƯƠNG BỔNG)
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/172.png",20:30 | VfB Stuttgart vs Werder Bremen (BLV Táo Thiên Vương)
 https://alive.zlylive.com/tdtv_blv_taothienvuong/tracks-v2a1/mono.m3u8
 
@@ -13,9 +7,6 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",21:00 | Biên Phòng MB vs Công An TPHCM (BLV PHAN CA)
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkuD4iDpTTtrKYv1EJ3LPjU01T_fPpfF-hg&s",21:00 | Jannik Sinner vs Elmer Moller (BLV PHAN TỪ)
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",21:00 | Chelsea vs Leeds (BLV Táo Mèo)
 https://alive.zlylive.com/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
@@ -76,9 +67,6 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png",00:00 | Galatasaray vs Fenerbahçe (BLV PHAN TÔ)
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/321.png",00:15 | Lillestrom vs Bodo/Glimt (BLV PHAN LÂM)
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStPt5D2bbFzv88eNzGbNM7dmxOlU8XXyJ4EA&s",01:00 | Zheng Qinwen vs Elena Rybakina (BLV PHAN TỪ)
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
@@ -176,7 +164,7 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a8/Cagliari_Calcio_1920.png",23:30 | Cagliari vs Atalanta (BLV Táo Mèo)
 https://alive.zlylive.com/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Konyaspor_logo.svg/1200px-Konyaspor_logo.svg.png",00:00 | Konyaspor vs Trabzonspor (BLV PHAN LÂM)
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Konyaspor_logo.svg/1280px-Konyaspor_logo.svg.png",00:00 | Konyaspor vs Trabzonspor (BLV PHAN LÂM)
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png",01:45 | Lazio vs Udinese (BLV LƯƠNG BỔNG)
