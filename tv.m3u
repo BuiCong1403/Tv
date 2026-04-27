@@ -1,46 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/YwQfmcEa-YTwvSpN0.png",23:30 | Trung Quốc vs Ấn Độ (Uber) (BLV PHAN CA)
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png",01:45 | Lazio vs Udinese (BLV PHAN TÔ)
-https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png",01:45 | Lazio vs Udinese (BLV Táo Thiên Vương)
-https://alive.zlylive.com/tdtv_blv_taothienvuong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/487.png",01:45 | Lazio vs Udinese
-https://bglive.zlylive.com/live/bgtv_blv_tieuhac/playlist.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/33.png",02:00 | Manchester United vs Brentford (BLV PHAN MÃ  )
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/33.png",02:00 | Manchester United vs Brentford (BLV PHAN HÀ LINH )
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fd/Rcd_espanyol_de_barcelona.gif",02:00 | Espanyol vs Levante (BLV PHAN TỪ)
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/33.png",02:00 | Manchester United vs Brentford (BLV LƯƠNG BỔNG)
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/33.png",02:00 | Manchester United vs Brentford (BLV Ngọc Hoàng(A Cháo))
-https://d6ld1225.edgemaxcdn.org/tdtv_blv_ngochoang/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/33.png",02:00 | Manchester United vs Brentford (BLV Táo Tàu)
-https://alive.zlylive.com/tdtv_blv_taotau/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/33.png",02:00 | Manchester United vs Brentford (BLV Thần Thông)
-https://alive.zlylive.com/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/33.png",02:00 | Manchester United vs Brentford
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/33.png",02:00 | Manchester United vs Brentford
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghp83dr6od/image/small",02:15 | Gil Vicente vs Casa Pia AC (BLV PHAN LÂM)
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/445.png",07:00 | Huracan vs Argentinos JRS (BLV PHAN CA)
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
