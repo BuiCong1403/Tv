@@ -5,9 +5,6 @@ https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://static.flashscore.com/res/image/data/YwQfmcEa-YTwvSpN0.png",15:00 | Trung Quốc vs Nhật Bản (Uber) (BLV PHAN TÔ)
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Melbourne_Victory.svg/250px-Melbourne_Victory.svg.png",16:40 | Melbourne Victory vs Sydney (BLV PHAN MÃO)
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2748.png",17:00 | FC Anyang vs Bucheon FC 1995
 https://bglive.zlylive.com/live/bgtv_blv_tieubao/playlist.m3u8
 
@@ -32,7 +29,7 @@ https://alive.zlylive.com/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",18:00 | Binh Duong vs Thanh Hóa (BLV Táo Tỉnh Táo)
 https://alive.zlylive.com/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/3671.png",18:00 | Hai Phong vs Công An Nhân Dân
+#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/3671.png",18:00 | Hải Phòng vs Công An Hà Nội
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/3840px-Flag_of_Japan.svg.png",18:30 | Nhật Bản vs Đức (Nam) (BLV PHAN TỪ)
