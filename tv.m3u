@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6c/Wolverhampton_Wanderers.png",21:00 | Wolves vs Sunderland (BLV LƯƠNG BỔNG)
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",21:00 | Brentford vs West Ham (BLV Táo Thiên Vương)
-https://alive.zlylive.com/tdtv_blv_taothienvuong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/34.png",21:00 | Newcastle vs Brighton (BLV Táo Mèo)
-https://alive.zlylive.com/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/39.png",21:00 | Wolves vs Sunderland (BLV Táo Kinh Tế)
-https://alive.zlylive.com/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/34.png",21:00 | Newcastle vs Brighton
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/55.png",21:00 | Brentford vs West Ham
-https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",21:15 | Valencia vs Atletico Madrid (BLV PHAN BÁCH)
-https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",21:15 | Valencia vs Atletico Madrid (BLV Táo Tỉnh Táo)
-https://alive.zlylive.com/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/532.png",21:15 | Valencia vs Atletico Madrid
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",22:00 | Paris Saint Germain vs Lorient (BLV PHAN MÃO)
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
@@ -52,9 +25,6 @@ https://alive.zlylive.com/tdtv_blv_taothienvuong/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",23:30 | Arsenal vs Fulham (BLV LƯƠNG BỔNG)
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0e/Bayer_04_Leverkusen_logo.png",23:30 | Bayer Leverkusen vs RB Leipzig (BLV PHAN HÀ LINH )
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",23:30 | Arsenal vs Fulham (BLV Ngọc Hoàng(A Cháo))
 https://d6ld1225.edgemaxcdn.org/tdtv_blv_ngochoang/tracks-v2a1/mono.m3u8
@@ -289,4 +259,7 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",21:00 | Chelsea vs Nottingham Forest (BLV PHAN MÃ)
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://1.bp.blogspot.com/-jBb9nJTi22g/Xw1w0zq5ypI/AAAAAAAAaoI/y5xrZ4P7Kg0MDoclmpkw1QJvvFh0JJkBACLcBGAsYHQ/s1600/US-Cremonese_logo_tr_237-design.png",23:30 | Cremonese vs Lazio (BLV LƯƠNG BỔNG)
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
