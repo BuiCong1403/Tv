@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔴 ⚽ THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/teams/186.png",20:30 | FC St. Pauli vs FSV Mainz 05 (BLV Táo Tỉnh Táo)
-https://alive.zlylive.com/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://media.api-sports.io/football/teams/33.png",21:30 | Manchester United vs Liverpool (BLV PHAN MÃ)
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
